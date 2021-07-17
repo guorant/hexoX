@@ -1,4 +1,4 @@
-# hexo-cli
+# hexoX
 
 [![Build Status](https://github.com/hexojs/hexo-cli/actions/workflows/tester.yml/badge.svg)](https://github.com/hexojs/hexo-cli/actions/workflows/tester.yml)
 [![NPM version](https://badge.fury.io/js/hexo-cli.svg)](https://www.npmjs.com/package/hexo-cli)
@@ -9,7 +9,7 @@ Command line interface for Hexo.
 ## Installation
 
 ``` bash
-$ npm install hexo-cli -g
+$ npm install hexoX -g
 ```
 
 ## Development
