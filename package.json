@@ -1,10 +1,10 @@
 {
-  "name": "hexoX",
+  "name": "hexox",
   "version": "1.0.0",
   "description": "Command line interface for Hexo",
   "main": "lib/hexo",
   "bin": {
-    "hexoX": "./bin/hexo"
+    "hexoX": "./bin/hexoX"
   },
   "files": [
     "lib",
