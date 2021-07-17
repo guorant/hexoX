@@ -1,10 +1,10 @@
 {
-  "name": "hexo-cli",
-  "version": "4.3.0",
+  "name": "hexoX",
+  "version": "1.0.0",
   "description": "Command line interface for Hexo",
   "main": "lib/hexo",
   "bin": {
-    "hexo": "./bin/hexo"
+    "hexoX": "./bin/hexo"
   },
   "files": [
     "lib",
@@ -22,7 +22,7 @@
     "lib": "./lib",
     "bin": "./bin"
   },
-  "repository": "hexojs/hexo-cli",
+  "repository": "guorant/hexoX",
   "homepage": "https://hexo.io/",
   "keywords": [
     "website",
@@ -30,6 +30,7 @@
     "cms",
     "framework",
     "hexo",
+    "extend",
     "cli"
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
